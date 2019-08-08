@@ -5,6 +5,6 @@ public class Main {
     // 在这里创建一个public static void main(String[] args)方法。
 
     public static void main(String[] args) {
-
+        System.out.println("hello world");
     }
 }
