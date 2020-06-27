@@ -13,6 +13,6 @@ public class Cat {
 
     public void meow() {
         Main.i = 123;
-        System.out.println("meow " + name+",length is " + name.length());
+        System.out.println("meow " + name + ",length is " + name.length());
     }
 }
