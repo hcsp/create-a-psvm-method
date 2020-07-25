@@ -1,7 +1,7 @@
 package com.github.hcsp;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
-    }
+    // Create a public static void main(String[] args) method here.
+    // 在这里创建一个public static void main(String[] args)方法。
+
 }
